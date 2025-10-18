@@ -1,5 +1,0 @@
-Use 'wsl.exe --list --online' to list available distributions
-and 'wsl.exe --install <Distro>' to install.
-
-baraa@BobBogz:/mnt/c/Users/baraa$ pwd
-/mnt/c/Users/baraa
